@@ -7,3 +7,4 @@ We welcome bug reports, comments, questions, and suggestions. To add or view iss
 
 * <https://github.com/cycorp/issues/issues>
 
+We also periodically check [Stack Overflow](http://stackoverflow.com/questions/tagged/opencyc) for questions tagged with '[opencyc](http://stackoverflow.com/questions/tagged/opencyc)'.
